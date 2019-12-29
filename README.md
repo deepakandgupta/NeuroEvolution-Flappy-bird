@@ -1,3 +1,4 @@
 # NeuroEvolution-Flappy-bird
 
-A visual explanation for this is better, Please check the link below
+An implementation based on NEAT on game flappy bird using a neural network that I built. Please check the link below, there is a slider to speed up the process for the bird to learn
+https://deepakandgupta.github.io/NeuroEvolution-Flappy-bird/
